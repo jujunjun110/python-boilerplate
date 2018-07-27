@@ -1,0 +1,8 @@
+databases:
+    mysql:
+        driver: mysql
+        host: localhost
+        database: database_name!!
+        user: root
+        password: ''
+        prefix: ''
